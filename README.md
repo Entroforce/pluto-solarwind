@@ -11,10 +11,18 @@ Based on [PLUTO](https://plutocode.ph.unito.it/) 4.4-patch1.
 
 ## Build
 
+### Prerequisites
+
+* An MPI implementation
+* `gcc`
+* `make`
+* `libnetcdf-dev`
+
+### Build
+
 ```
 make
-````
-
+```
 ## Run
 
 ### Stationary background mode
