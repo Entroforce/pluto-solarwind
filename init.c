@@ -102,7 +102,7 @@ void Init (double *v, double x1, double x2, double x3)
     #if PHYSICS == MHD || PHYSICS == RMHD
     v[BX1] = today_solarwind_data->mean_B1 * coef2;
     v[BX2] = 0.0;
-    v[BX3] = today_solarwind_data->mean_B3 * coef2;
+    v[BX3] = today_solarwind_data->mean_B3 * coef1;
 
     v[AX1] = 0.0;
     v[AX2] = 0.0;
