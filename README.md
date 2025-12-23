@@ -66,3 +66,9 @@ number 10, a file is saved every 1 hour of simulation, so
 `data.0130.dbl` and `data.0130.vtk` are 5 days after the starting date.
 
 The coordinate system is HEEQ.
+
+## Papers
+
+S. Arutyunyan, A. Kodukov, M. Subbotin, D. Pavlov. MHD Forecasting of Solar Wind With Coronal Mass Ejections. Space Weather **23**(12), e2025SW004403 (2025). DOI [10.1029/2025SW004403](https://doi.org/10.1029/2025SW004403) (open access). 
+
+S. Arutyunyan, A. Kodukov, M. Subbotin, D. Pavlov. A Prototype of a Background Solar Wind Forecasting Service Based on MHD Modeling and WSA Boundary Conditions. Cosmic Research **61**, pp. 457–463 (2023). DOI: [10.1134/S0010952523700508](https://doi.org/10.1134/S0010952523700508).
