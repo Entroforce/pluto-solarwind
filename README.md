@@ -2,7 +2,7 @@
 
 Based on [PLUTO](https://plutocode.ph.unito.it/) 4.4-patch1.
 
-## Authors
+## Authors (of the part that is not PLUTO original code)
 
 * Samvel Arutyunyan (boundary conditions)
 * Alexander Kodukov (parallelization)
